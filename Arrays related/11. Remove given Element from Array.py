@@ -2,4 +2,4 @@ a = [3, 2, 2, 3, 4, 2]
 x = 2
 
 a = [i for i in a if i != x]
-print(arr)
+print(a)
